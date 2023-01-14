@@ -2,7 +2,7 @@
 AngelMascaro/AngelMascaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## Nice to see you!👋👋👋
+## Nice to see you!👋
 
 - 👋 Hi!, I’m @AngelMascaro
 - 🤓 I'm full stack developer
@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-## Things I code with🥴🤪🤯
+## Things I code with🤪
 <p>
   <img alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
@@ -42,7 +42,7 @@ You can click the Preview link to take a look at your changes.
   <img alt="Java" src="https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=" />
 </p>
 
-## Where to find me🧐🧐🧐
+## Where to find me🧐
 <p>
   <a href="https://www.linkedin.com/in/angel-mascaro-arcusa-developer">
     <img alt="Linkedin" src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" />
