@@ -40,6 +40,7 @@ You can click the Preview link to take a look at your changes.
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
   <img alt="Nextjs" src="https://img.shields.io/badge/-Nextjs-000000?style=for-the-badge&logo=Next.js&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=" />
+  <img alt="SqlServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 </p>
 
 ## Where to find me🧐
